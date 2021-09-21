@@ -29,17 +29,19 @@
       "local": "Engesoftware/BNB",
 	  "duracao": "Abr, 2020 - Ago, 2021",
 	  "comentario": "Atuação na equipe de incidentes de sistemas de crédito. Desenvolvimento/Manutenção de ferramentas em Angular/Java para atuação da equipe e controle de incidentes. Análise e Investigação de incidentes dos sistemas em JAVA para elaboração de soluções. Atuação de manutenção direta nas bases SQL e DB2"
-    },{
+    },
+	{
       "cargo": "Desenvolvedor Web (Estágio)",
       "local": "Aspec Informática",
 	  "duracao": "Out, 2019 - Apr, 2020",
 	  "comentario": "Manutenção, Criação e Evolução dos Sistemas WEB da empresa, Intranet e Website, utilizando: WordPress, Java, JS, Spring Boot e Angular"
-    },{
+    },
+	{
       "cargo": "Auxiliar de Governaça de TI (Estágio)",
       "local": "Banco do Nordeste do Brail (BNB)",
 	  "duracao": "Out, 2017 - Out, 2019",
 	  "comentario": "Gerar relatórios com o Microsoft Excel e Power BI (Business Intelligence). Atender demandas para liberação de acessos e criação de matrículas. Consultar entregas no banco de dados (ClearQuest e Access). Testar funcionalidades de alguns sistemas internos. Dar suporte à governança de TI de modo geral"
-    },
+    }
   ],
   "habilidades": [
     {
@@ -73,7 +75,7 @@
 	{
       "name": "Inglês",
       "porcentagem": 95
-    },
+    }
   ],
   "perfil": {
     "nome": "Joel Felipe Araujo Damasceno",
