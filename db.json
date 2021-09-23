@@ -134,14 +134,14 @@
     }
   ],
   "IndicadorResumo":{
-    "indicador": "DEZ",
-      "totalVendas": 12678,
-      "contasAPagar": 3914,
-      "emAtraso": 2024,
-      "emAtrasoPercent": 51.70,
-      "saldoFinalDoMes": 287,
-      "faturasVencidas": 211,
-      "faturasEmAberto": 27,
-      "faturasPagas": 600
+    "indicador": "Total",
+    "totalVendas": 142097,
+    "contasAPagar": 42582,
+    "emAtraso": 26533,
+    "emAtrasoPercent": 62.68,
+    "saldoFinalDoMes": 3200,
+    "faturasVencidas": 211,
+    "faturasEmAberto": 463,
+    "faturasPagas": 5215
   }
 }
