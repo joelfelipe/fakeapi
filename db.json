@@ -1,104 +1,147 @@
 {
-  "educacao": [
+  "indicadorAnual":[
     {
-      "titulo": "Bacharelado em Ciência da Computação",
-      "local": "Universidade Estadual do Ceará",
-	  "duracao": "2015 - 2020",
-	  "comentario": null,
-	  "tcc": "TAGSUBS UM ETIQUETADOR DE TEXTOS COM FOCO EM LEGENDAS",
-	  "link": "https://siduece.uece.br/siduece/trabalhoAcademicoPublico.jsf?id=96135"
+      "indicador": "JAN",
+      "totalVendas": 11676,
+      "contasAPagar": 3778,
+      "emAtraso": 2456,
+      "emAtrasoPercent": 65,
+      "saldoFinalDoMes": 268,
+      "faturasVencidas": 78,
+      "faturasEmAberto": 45,
+      "faturasPagas": 290
     },
     {
-      "titulo": "Bacharelado em Letras Inglês",
-      "local": "Universidade Estadual do Ceará",
-	  "duracao": "2015 - 2020",
-	  "comentario": "Curso interrompido",
-	  "tcc": null,
-	  "link": null
+      "indicador": "FEV",
+      "totalVendas": 10761,
+      "contasAPagar": 3496,
+      "emAtraso": 2335,
+      "emAtrasoPercent": 6680,
+      "saldoFinalDoMes": 244,
+      "faturasVencidas": 91,
+      "faturasEmAberto": 45,
+      "faturasPagas": 311
+    },
+    {
+      "indicador": "MAR",
+      "totalVendas": 11691,
+      "contasAPagar": 3299,
+      "emAtraso": 2466,
+      "emAtrasoPercent": 7470,
+      "saldoFinalDoMes": 296,
+      "faturasVencidas": 51,
+      "faturasEmAberto": 38,
+      "faturasPagas": 335
+    },
+    {
+      "indicador": "ABR",
+      "totalVendas": 13030,
+      "contasAPagar": 3617,
+      "emAtraso": 2190,
+      "emAtrasoPercent": 60.50,
+      "saldoFinalDoMes": 284,
+      "faturasVencidas": 136,
+      "faturasEmAberto": 45,
+      "faturasPagas": 363
+    },
+    {
+      "indicador": "MAI",
+      "totalVendas": 11406,
+      "contasAPagar": 3990,
+      "emAtraso": 2130,
+      "emAtrasoPercent": 53.40,
+      "saldoFinalDoMes": 242,
+      "faturasVencidas": 125,
+      "faturasEmAberto": 44,
+      "faturasPagas": 389
+    },
+    {
+      "indicador": "JUN",
+      "totalVendas": 10133,
+      "contasAPagar": 3459,
+      "emAtraso": 2303,
+      "emAtrasoPercent": 66.60,
+      "saldoFinalDoMes": 234,
+      "faturasVencidas": 136,
+      "faturasEmAberto": 25,
+      "faturasPagas": 408
+    },
+    {
+      "indicador": "JUL",
+      "totalVendas": 13291,
+      "contasAPagar": 3268,
+      "emAtraso": 2146,
+      "emAtrasoPercent": 65.70,
+      "saldoFinalDoMes": 277,
+      "faturasVencidas": 193,
+      "faturasEmAberto": 38,
+      "faturasPagas": 439
+    },
+    {
+      "indicador": "AGO",
+      "totalVendas": 10294,
+      "contasAPagar": 3125,
+      "emAtraso": 2189,
+      "emAtrasoPercent": 70.00,
+      "saldoFinalDoMes": 282,
+      "faturasVencidas": 165,
+      "faturasEmAberto": 44,
+      "faturasPagas": 470
+    },
+    {
+      "indicador": "SET",
+      "totalVendas": 10352,
+      "contasAPagar": 3828,
+      "emAtraso": 2017,
+      "emAtrasoPercent": 52.70,
+      "saldoFinalDoMes": 229,
+      "faturasVencidas": 174,
+      "faturasEmAberto": 47,
+      "faturasPagas": 500
+    },
+    {
+      "indicador": "OUT",
+      "totalVendas": 12743,
+      "contasAPagar": 3241,
+      "emAtraso": 2004,
+      "emAtrasoPercent": 61.80,
+      "saldoFinalDoMes": 267,
+      "faturasVencidas": 218,
+      "faturasEmAberto": 40,
+      "faturasPagas": 535
+    },
+    {
+      "indicador": "NOV",
+      "totalVendas": 14042,
+      "contasAPagar": 3567,
+      "emAtraso": 2273,
+      "emAtrasoPercent": 63.70,
+      "saldoFinalDoMes": 290,
+      "faturasVencidas": 216,
+      "faturasEmAberto": 25,
+      "faturasPagas": 575
+    },
+    {
+      "indicador": "DEZ",
+      "totalVendas": 12678,
+      "contasAPagar": 3914,
+      "emAtraso": 2024,
+      "emAtrasoPercent": 51.70,
+      "saldoFinalDoMes": 287,
+      "faturasVencidas": 211,
+      "faturasEmAberto": 27,
+      "faturasPagas": 600
     }
   ],
-  "trabalho": [
-    {
-      "cargo": "Desenvolvedor Web (Angular)",
-      "local": "Dell Lead",
-	  "duracao": "Ago, 2021 - Atualmente",
-	  "comentario": "Construir aplicação frontend utilizando Angular 8+ com integração via REST API. Realizar atividades seguindo em metodologia ágil. Trabalhar em projeto com equipe multidisciplinar. Participar de reuniões com o cliente. Aptidão à cultura de agilidade e feedbacks."
-    },
-	{
-      "cargo": "Analista de Sistemas Java",
-      "local": "Engesoftware/BNB",
-	  "duracao": "Abr, 2020 - Ago, 2021",
-	  "comentario": "Atuação na equipe de incidentes de sistemas de crédito. Desenvolvimento/Manutenção de ferramentas em Angular/Java para atuação da equipe e controle de incidentes. Análise e Investigação de incidentes dos sistemas em JAVA para elaboração de soluções. Atuação de manutenção direta nas bases SQL e DB2"
-    },
-	{
-      "cargo": "Desenvolvedor Web (Estágio)",
-      "local": "Aspec Informática",
-	  "duracao": "Out, 2019 - Apr, 2020",
-	  "comentario": "Manutenção, Criação e Evolução dos Sistemas WEB da empresa, Intranet e Website, utilizando: WordPress, Java, JS, Spring Boot e Angular"
-    },
-	{
-      "cargo": "Auxiliar de Governaça de TI (Estágio)",
-      "local": "Banco do Nordeste do Brail (BNB)",
-	  "duracao": "Out, 2017 - Out, 2019",
-	  "comentario": "Gerar relatórios com o Microsoft Excel e Power BI (Business Intelligence). Atender demandas para liberação de acessos e criação de matrículas. Consultar entregas no banco de dados (ClearQuest e Access). Testar funcionalidades de alguns sistemas internos. Dar suporte à governança de TI de modo geral"
-    }
-  ],
-  "habilidades": [
-    {
-      "name": "HTML + CSS",
-      "porcentagem": 90
-    },
-    {
-      "name": "TypeScript",
-      "porcentagem": 90
-    },
-	{
-      "name": "Angular",
-      "porcentagem": 90
-    },
-	{
-      "name": "Photoshop",
-      "porcentagem": 90
-    },
-	{
-      "name": "Java",
-      "porcentagem": 70
-    },
-	{
-      "name": "C#",
-      "porcentagem": 60
-    },
-	{
-      "name": "Python",
-      "porcentagem": 60
-    },
-	{
-      "name": "Inglês",
-      "porcentagem": 95
-    }
-  ],
-  "perfil": {
-    "nome": "Joel Felipe Araujo Damasceno",
-	"idade": 29,
-	"email": "joelfelipe@gmail.com",
-	"telefone": "+55 (85) 9 8801-6475 (Wpp)",
-	"endereco": "R. das Carnaúbas, 351, B. Jasmim, Ap 505 - Passaré - Fortaleza/CE - Brasil",
-	"sobre": "Olá! Me chamo Joel Felipe. Sou graduado em Ciência da Computação e apaixonado por Web Design e Desenvolvimento Web. Sou um desenvolvedor front-end habilidoso. Atualmente estudo C# para minha formação de desenvolvedor full-stack. Contudo também estou acostumado a trabalhar com tecnologias Java.",
-	"form": "https://formspree.io/f/mgerdkyl",
-	"cvlink": "https://raw.githubusercontent.com/joelfelipe/fakeapiteste/master/cv-joel.pdf",
-	"img": "https://raw.githubusercontent.com/joelfelipe/fakeapiteste/master/avatar.png"
-  },
-  "footer":[
-	{
-		"titulo": "Linkedin",
-		"link": "https://www.linkedin.com/in/joel-felipe-damasceno-2a6b2572/",
-		"icon": "linkedin"
-	},
-	{
-	
-		"titulo": "Github",
-		"link": "https://github.com/joelfelipe",
-		"icon": "github"
-	}
-  ]
+  "IndicadorResumo":{
+    "indicador": "DEZ",
+      "totalVendas": 12678,
+      "contasAPagar": 3914,
+      "emAtraso": 2024,
+      "emAtrasoPercent": 51.70,
+      "saldoFinalDoMes": 287,
+      "faturasVencidas": 211,
+      "faturasEmAberto": 27,
+      "faturasPagas": 600
+  }
 }
