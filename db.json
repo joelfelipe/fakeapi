@@ -514,42 +514,42 @@
         ],
         "statusSolicitacao": [
             {
-                "statusId": 0,
-                "statusNome": "Pendente"
+                "id": 0,
+                "nome": "Pendente"
             },
             {
-                "statusId": 1,
-                "statusNome": "Reenviado"
+                "id": 1,
+                "nome": "Reenviado"
             },
             {
-                "statusId": 2,
-                "statusNome": "Falha"
+                "id": 2,
+                "nome": "Falha"
             },
             {
-                "statusId": 3,
-                "statusNome": "Sucesso"
+                "id": 3,
+                "nome": "Sucesso"
             }
         ],
         "statusCliente": [
             {
-                "statusId": 0,
-                "statusNome": "Pendente"
+                "id": 0,
+                "nome": "Pendente"
             },
             {
-                "statusId": 1,
-                "statusNome": "Sem Erro"
+                "id": 1,
+                "nome": "Sem Erro"
             },
             {
-                "statusId": 2,
-                "statusNome": "Com Erro"
+                "id": 2,
+                "nome": "Com Erro"
             },
             {
-                "statusId": 3,
-                "statusNome": "Falha"
+                "id": 3,
+                "nome": "Falha"
             },
             {
-                "statusId": 4,
-                "statusNome": "Sucesso"
+                "id": 4,
+                "nome": "Sucesso"
             }
         ]
     }
